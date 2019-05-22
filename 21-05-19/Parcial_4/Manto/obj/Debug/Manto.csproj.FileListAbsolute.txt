@@ -1,0 +1,10 @@
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\bin\Debug\Manto.exe.config
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\bin\Debug\Manto.exe
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\bin\Debug\Manto.pdb
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.Doctor.resources
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.MDIParent1.resources
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.Properties.Resources.resources
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.exe
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\Manto\obj\Debug\Manto.pdb

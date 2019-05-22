@@ -1,0 +1,7 @@
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\bin\Debug\Manto.exe
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\bin\Debug\Manto.pdb
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Lab3\Desktop\21-05-19\Parcial_4\CapaNegocios\obj\Debug\CapaNegocios.pdb
